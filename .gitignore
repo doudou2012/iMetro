@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # OSX
 #
 .DS_Store
 
+=======
+>>>>>>> 5c617c153165c0328158805d69de72b26baf93a9
 # Xcode
 #
 build/
@@ -20,9 +23,20 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+<<<<<<< HEAD
 project.xcworkspace
 
 # node.js
 #
 node_modules/
 npm-debug.log
+=======
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
+#
+#Pods/
+>>>>>>> 5c617c153165c0328158805d69de72b26baf93a9
